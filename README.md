@@ -24,7 +24,7 @@ This package contains a component - `RefreshableScrollView`  - that enables this
 This component is distrubuted as a **Swift package**. Just add this URL to your package list:
 
 ```text
-https://github.com/globulus/SwiftUIPullToRefresh
+https://github.com/BenPattonTeam/SwiftUIPullToRefresh
 ```
 
 You can also use **CocoaPods**:
