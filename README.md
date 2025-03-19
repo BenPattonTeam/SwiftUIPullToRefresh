@@ -24,13 +24,13 @@ This package contains a component - `RefreshableScrollView`  - that enables this
 This component is distrubuted as a **Swift package**. Just add this URL to your package list:
 
 ```text
-https://github.com/globulus/swiftui-pull-to-refresh
+https://github.com/globulus/SwiftUIPullToRefresh
 ```
 
 You can also use **CocoaPods**:
 
 ```ruby
-pod 'SwiftUI-Pull-To-Refresh', '~> 1.1.9'
+pod 'SwiftUIPullToRefresh', '~> 1.2.0'
 ```
 
 ## Sample usage
